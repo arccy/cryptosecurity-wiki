@@ -1,5 +1,5 @@
 # cryptosecurity-wiki
-A wiki for cryptosecurity regulations and cryptocurrency considerations
+A wiki for cryptosecurity regulations.
 
 Scope
 
@@ -14,7 +14,7 @@ Structure for the wiki:
 
 Risks and warnings
 
-Nothing in this repoistory should be construed as advice, and users use the information contained herein at their own risk.
+Nothing in this repository should be construed as advice, and users agree that they use the information contained herein at their own risk.
 Information may be incomplete, inaccurate and out of date.
 
 
@@ -23,6 +23,7 @@ To-do
 Lawyer(s) to contribute disclosure text
 Create an overview file
 Agree master file structure for jurisdictions
+
 Create a file for each jurisdiction:
 
 Afghanistan
